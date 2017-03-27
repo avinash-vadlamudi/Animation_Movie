@@ -1,2 +1,2 @@
 # Animation_Movie
-a short film made using unity and blender
+a short animation of 1 minute length made using unity and blender
